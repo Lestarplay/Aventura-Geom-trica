@@ -1,1 +1,1 @@
-# Aventura-Geom-trica
+# Aventura-Geometrica
